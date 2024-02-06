@@ -2,7 +2,7 @@
 // import './css/style.css';
 // import 'bootstrap/dist/css/bootstrap.min.css';
 
-//Tonto se les esto
+
 
 function onMapClick(e) {
   let popup = L.popup();
