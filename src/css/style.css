@@ -1,0 +1,9 @@
+#main {
+  display: grid;
+  grid-template-columns: 1fr 6fr 1fr;
+  height: 90vh;
+}
+#map {
+  height: 100%;
+  width: 100%;
+}
